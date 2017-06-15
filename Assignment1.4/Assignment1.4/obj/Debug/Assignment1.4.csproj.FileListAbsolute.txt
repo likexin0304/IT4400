@@ -1,0 +1,6 @@
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\bin\Debug\Assignment1.4.exe.config
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\bin\Debug\Assignment1.4.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\bin\Debug\Assignment1.4.pdb
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\obj\Debug\Assignment1.4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\obj\Debug\Assignment1.4.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment1.4\Assignment1.4\obj\Debug\Assignment1.4.pdb

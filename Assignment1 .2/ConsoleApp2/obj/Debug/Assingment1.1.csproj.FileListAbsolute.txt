@@ -1,0 +1,6 @@
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Debug\Assingment1.1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
