@@ -1,0 +1,12 @@
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.exe.config
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.pdb
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.exe
+C:\Users\Administrator.EIT-20160727EFK\Desktop\C#\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.pdb
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.exe.config
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.exe
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\bin\Debug\Assignment2.1.pdb
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.exe
+\\Mac\Dropbox\IT4400\Assignment2.1\Assignment2.1\obj\Debug\Assignment2.1.pdb
